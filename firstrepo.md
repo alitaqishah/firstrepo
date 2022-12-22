@@ -11,4 +11,8 @@ Go to Kaggle <https://www.kaggle.com/> and download any business related data in
 - Draw at least two qualitative graphs and one quantitative graphs.
 - Install one add-in library and draw graph using this.
 - Use the data Analysis toolbox and interpret the results.
+- We are in the GIt101
+
+
+
 
